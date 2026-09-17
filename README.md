@@ -138,7 +138,7 @@ streamlit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tic-tac-toe-ai.git
+git clone [https://github.com/harshitha2610-coder/Tic-Tac-Toe-AI.git]
 ```
 
 ### 2. Navigate to the project directory
@@ -286,7 +286,7 @@ This project is open-source and available for educational and personal use.
 **Harshitha L**
 
 GitHub:
-*Add your GitHub profile link here*
+*[Click_here](https://github.com/harshitha2610-coder)*
 
 ---
 
