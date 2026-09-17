@@ -7,7 +7,7 @@ The computer uses the **Minimax algorithm** to analyze possible moves and choose
 ## 🚀 Live Demo
 
 **Streamlit App:**
-*Add your deployed Streamlit URL here*
+*https://tic-tac-toe-ai-mo30harshi10.streamlit.app/*
 
 ## 📌 Project Overview
 
